@@ -5,10 +5,10 @@ To get the tariff I made a copy of report 1306 and made sure it worked properly 
 After that I pasted the tariff fields from report 1302 "Pro Forma report" into report 50100
 
 ### Here we can see the standard word report without the tariff
-![]('1306ReportWithoutTariff.png')
+![](1306ReportWithoutTariff.png "Report without tariff")
 
 
 ### Here we can see the standard word report with the tariff
-![]('1306ReportWithTariff.png')
+![](1306ReportWithTariff.png "Report with tariff")
 After publishing the extension we get the new report, 50100, but with extra fields. Namely tariff and tariffLbl
 
